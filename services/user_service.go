@@ -2,6 +2,8 @@ package services
 
 import (
 	"fmt"
+	"net/mail"
+	"strings"
 
 
 	"github.com/diegoQuinas/gopenca/repository"
